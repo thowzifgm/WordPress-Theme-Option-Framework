@@ -1,11 +1,11 @@
 <?php
 /*
-Plugin Name: Themezinho Core
-Plugin URI: http://anchor.themezinho.net
-Description: Themezinho Core Plugin
-Author: Themezinho
+Plugin Name: Themeoptions Core
+Plugin URI: http://thowzif.com
+Description: Themeoptions Core Plugin
+Author: Abdullah Thowzif Hameed
 Version: 3.1.0
-Author URI: http://themeforest.net/user/themezinho/portfolio
+Author URI: http://thowzif.com
 */
 
 define( "ANCHOR_CORE_PATH", plugin_dir_path( __FILE__ ) );
